@@ -10,7 +10,7 @@ It’s just a basic test — not a real-time screener or trading app. It's built
 
 - `scraper` – collects stock data from yFinance and saves it
 - `Nlp_stock.py` – chatbot that lets you ask about stocks using Gemini AI
-
+- `streamlit.py` –front end of chatbot
 ---
 
 ## 📦 What You Need
