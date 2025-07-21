@@ -1,5 +1,11 @@
 # 🧠 Natural Language StockFinder (Mini Project)
 
+# Watch yt Video of the project 
+
+https://youtu.be/Dt1-r_zbuoQ?si=4cZ-tUnu7l3w5r00
+
+
+
 This is a simple prototype project where you can ask questions about stocks using natural language (like chatting), and the AI (Gemini API) will try to answer based on saved stock data.
 
 It’s just a basic test — not a real-time screener or trading app. It's built with Python, and uses Gemini API + yFinance to show how AI can help in stock analysis.
