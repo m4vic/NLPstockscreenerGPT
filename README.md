@@ -8,8 +8,8 @@ It’s just a basic test — not a real-time screener or trading app. It's built
 
 ## 🧩 What’s Inside
 
-- `StockScrapper.py` – collects stock data from yFinance and saves it
-- `StockFinder-GPT.py` – chatbot that lets you ask about stocks using Gemini AI
+- `scraper` – collects stock data from yFinance and saves it
+- `Nlp_stock.py` – chatbot that lets you ask about stocks using Gemini AI
 
 ---
 
