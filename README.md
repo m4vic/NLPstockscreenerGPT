@@ -19,7 +19,7 @@ It’s just a basic test — not a real-time screener or trading app. It's built
 - Gemini API key (very important) Its FREE
 - Some basic Python knowledge (or just follow the steps below)
 
-pip install pandas yfinance beautifulsoup4 requests google-generativeai regex
+pip install pandas yfinance beautifulsoup4 requests google-generativeai regex streamlit 
 
 ## 🔧 How to Use (Step by Step)
 ## Step 1: Copy the Files
