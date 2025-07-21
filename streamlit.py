@@ -1,6 +1,6 @@
 import streamlit as st
 import asyncio
-from Nlpstocks import NLPStockScreener  # Your class in a separate file
+from Nlp_stocks import NLPStockScreener  # Your class in a separate file
 import time
 # Config
 API_KEY = "********************************" # <--- paste gemini api key here
