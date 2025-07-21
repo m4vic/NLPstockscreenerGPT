@@ -265,7 +265,7 @@ def main():
     """
     # Configuration - Replace with your actual values
     API_KEY = "***************************************"
-    DB_PATH = "/home/mavic/investment_algo/scrapers/stocks.db"
+    DB_PATH = "*******************************"
     
     # Create the screener
     screener = NLPStockScreener(API_KEY, DB_PATH)
